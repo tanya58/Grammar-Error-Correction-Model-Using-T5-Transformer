@@ -21,3 +21,5 @@ The custom Encoder-Decoder architecture is trained on a parallel dataset consist
 https://www.kaggle.com/datasets/satishgunjal/grammar-correction
 
 # Result
+The performance of the grammar correction system is evaluated using metrics such as precision, recall, and F1 score, Bleu.
+Average BLEU Score: 0.6847878463169301
